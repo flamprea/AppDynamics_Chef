@@ -5,7 +5,16 @@ This file is used to list changes made in each version of the AppDynamics_dotNet
 
 0.1.0
 -----
-- [your_name] - Initial release of AppDynamics_dotNetAgent64_4.0.1
+- [Frank Lamprea] - Initial release of AppDynamics_dotNetAgent64_4.0.1
+
+0.1.1
+-----
+- [Frank Lamprea] - Functional, hardcoded values
+
+0.1.2
+-----
+- [Frank Lamprea] - Added Attributes and template for config file. Removed hard coded values.
+
 
 - - -
 Check the [Markdown Syntax Guide](http://daringfireball.net/projects/markdown/syntax) for help with Markdown.
