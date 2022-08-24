@@ -41,3 +41,4 @@ Just include `AppDynamics_dotNetAgent64_4.0.1::install` in your node's `run_list
 License and Authors
 -------------------
 Authors: AppDynamics, Inc.
+Frank Lamprea
